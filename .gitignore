@@ -1,0 +1,20 @@
+# 编译产物
+build/
+*.o
+*.out
+*.exe
+*.bin
+# 日志、临时文件
+*.log
+*.tmp
+*.bak
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
